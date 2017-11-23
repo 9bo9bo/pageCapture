@@ -8,6 +8,7 @@
   },
   "author": "9bo9bo",
   "license": "Apache-2.0",
+  "repository": "gitlab:9bo9bo/pageCapture",
   "dependencies": {
     "puppeteer": "^0.13.0"
   }
